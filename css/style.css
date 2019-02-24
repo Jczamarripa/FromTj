@@ -328,7 +328,7 @@ color:#ccc !important;
 	position:relative;
 	font-size: 50px;
 	line-height: 62px;
-	margin-top: 240px;
+	margin-top: 200px;
 	margin-bottom: 48px;
 	color:#fff !important;
 	font-weight: 700;
@@ -1051,15 +1051,14 @@ margin-right: 8px;
 
 /* ================ Footer Section ================ */
 #section-footer {
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-bottom: 10px;
 	background: #333;
 	color:#e5e5e5;
 }
 
 .footer-title {
 	display: inline-block;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 	text-transform: none;
 }
 
@@ -1081,6 +1080,17 @@ margin-right: 8px;
 }
 
 .copyright {
-	padding-top: 15px;
+	padding-top: 10px;
 }
 
+.less-md{
+	margin-bottom: -6em;
+}
+
+.less-tp{
+	margin-top: -1em;
+}
+
+.pdes{
+	font-size: 1.5em;
+}
